@@ -1,0 +1,26 @@
+{
+  "name": "glob-filename-loader",
+  "version": "1.0.0",
+  "description": "Webpack loader for loading filename list based on glob pattern",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/singggum3b/glob-filename-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "filename",
+    "glob",
+    "list"
+  ],
+  "author": "singgum3b",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/singggum3b/glob-filename-loader/issues"
+  },
+  "homepage": "https://github.com/singggum3b/glob-filename-loader#readme"
+}
