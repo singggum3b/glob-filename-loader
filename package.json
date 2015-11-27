@@ -22,5 +22,9 @@
   "bugs": {
     "url": "https://github.com/singggum3b/glob-filename-loader/issues"
   },
-  "homepage": "https://github.com/singggum3b/glob-filename-loader#readme"
+  "homepage": "https://github.com/singggum3b/glob-filename-loader#readme",
+  "devDependencies": {
+    "glob": "^6.0.1",
+    "loader-utils": "^0.2.12"
+  }
 }
